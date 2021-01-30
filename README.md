@@ -1,4 +1,5 @@
 <h1 align="center"> 2048-Game</h1>
+--
 <p align="center"><img src="https://github.com/Tony-L-93/2048-Game/blob/master/pics/welcome-2048.png"/></p>
 <p> Proyecto final del desarrollo de una aplicacion para jugar al 2048, donde se puede elegir 3 tipos de tableros: 4x4, 6x6, 8x8.</p>
 
